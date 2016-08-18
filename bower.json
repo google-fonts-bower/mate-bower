@@ -1,0 +1,17 @@
+{
+    "name": "mate-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/mate-bower.git"
+    },
+    "description": "Mate font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
